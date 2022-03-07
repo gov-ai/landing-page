@@ -1,0 +1,40 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * azo-sans-uber:
+ *   - http://typekit.com/eulas/000000000000000000014a2e
+ * bodoni-urw:
+ *   - http://typekit.com/eulas/00000000000000000001793e
+ * ltc-bodoni-175:
+ *   - http://typekit.com/eulas/00000000000000003b9b21dc
+ *
+ * © 2009-2022 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2019-11-09 07:11:50 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=uok8swb&ht=tk&f=5631.11258.22797&a=1494256&app=typekit&e=css");
+
+@font-face {
+font-family:"ltc-bodoni-175";
+src:url("https://use.typekit.net/af/a8a439/00000000000000003b9b21dc/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/a8a439/00000000000000003b9b21dc/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/a8a439/00000000000000003b9b21dc/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"bodoni-urw";
+src:url("https://use.typekit.net/af/077186/00000000000000000001793e/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/077186/00000000000000000001793e/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/077186/00000000000000000001793e/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"azo-sans-uber";
+src:url("https://use.typekit.net/af/657ff9/000000000000000000014a2e/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/657ff9/000000000000000000014a2e/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/657ff9/000000000000000000014a2e/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-ltc-bodoni-175 { font-family: "ltc-bodoni-175",serif; }
+.tk-bodoni-urw { font-family: "bodoni-urw",serif; }
+.tk-azo-sans-uber { font-family: "azo-sans-uber",sans-serif; }
